@@ -1,3 +1,8 @@
+
+
+
+
+
 # 🚗 Bluetooth RC Car — Arduino
 
 A 4-wheel Bluetooth controlled RC car built with Arduino Uno, 
@@ -7,7 +12,7 @@ Supports forward, backward, left, right, horn, and headlight toggle.
 ---
 
 ## 📹 Demo Video
-[Click here to watch demo](https://drive.google.com/file/d/1K96TMKrKtGrIUGi0ngU5rM7GQMyBrkor/view?usp=drivesdk)
+[Click here to watch demo](https://github.com/user-attachments/assets/406715a0-3537-48f9-9bed-ba2dcacfbc78)
 
 ---
 
