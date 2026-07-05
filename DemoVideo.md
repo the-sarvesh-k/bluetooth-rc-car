@@ -1,1 +1,1 @@
-[Click Here to Watch Demo Video on Google Drive](https://drive.google.com/file/d/1K96TMKrKtGrIUGi0ngU5rM7GQMyBrkor/view?usp=drivesdk)
+[Click Here to Watch Demo Video on Google Drive](https://github.com/the-sarvesh-k/bluetooth-rc-car/raw/main/Project 02.mp4)
